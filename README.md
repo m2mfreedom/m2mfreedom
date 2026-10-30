@@ -25,3 +25,7 @@
 * 🐍 **Isolated AST Python 3 Sandbox:** `POST https://m2mfreedom.com/api/v1/router/tools/python` (60 Sats)
 * 🌐 **Clean Markdown Web Scraper:** `POST https://m2mfreedom.com/api/v1/router/tools/scrape` (40 Sats)
 * 🧠 **Persistent K/V Memory Store:** `POST https://m2mfreedom.com/api/v1/router/tools/memory` (25 Sats)
+
+### 🔌 Official Framework Plugins & SDKs
+* 🤖 **ElizaOS Plugin (`@m2mfreedom/elizaos-plugin`):** [https://github.com/m2mfreedom/elizaos-plugin-m2m-freedom](https://github.com/m2mfreedom/elizaos-plugin-m2m-freedom) (`npm i github:m2mfreedom/elizaos-plugin-m2m-freedom`)
+* 🖥️ **MCP Server & Worker Daemon:** [https://github.com/m2mfreedom/freedom-m2m-mcp-server](https://github.com/m2mfreedom/freedom-m2m-mcp-server)
